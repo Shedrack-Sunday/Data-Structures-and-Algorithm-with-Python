@@ -16,19 +16,17 @@
 ### Environment
 * Language: Python
 * Style guidelines: [PEP8](https://peps.python.org/pep-0008/)
-
-
 ---
 ### Collaborators
-Shedrack Sunday  [![M](https://github.com/Shedrack-Sunday)
-Abolaji Oyinloye  [![M](https://github.com/Abolajioyin)
-Edison Chimezie  [![M](https://github.com/EddieChimezie)
-Marcus Ruth  [![M](https://github.com/PrincessRuth90)
-Ikenna Remigius  [![M](https://github.com/charlykso)
-Egba Nnaemeka  [![M](https://github.com/egba001)
-Wilson Icheku  [![M](https://github.com/Wilsonide)
-Francis Okolo  [![M](https://github.com/FrancisOkolo)
-Samuel Lemma  [![M](https://github.com/samif1)
-Adekunle Richard  [![M](https://github.com/Adekunle-R)
-Abdulsalam Sofiyat  [![M](https://github.com/Sofiyyah1)
+<a href=“https://github.com/Shedrack-Sunday”>Shedrack Sunday</a>
+<a href=“https://github.com/Abolajioyin”>Abolaji Oyinloye </a>
+<a href=“https://github.com/EddieChimezie”>Edison Chimezie </a>
+<a href=“https://github.com/PrincessRuth90”>Marcus Ruth</a>
+<a href=“https://github.com/charlykso”>Ikenna Remigius </a>
+<a href=“https://github.com/egba001”> Egba Nnaemeka </a>
+<a href=“https://github.com/Wilsonide”>Wilson Icheku </a>
+<a href=“https://github.com/FrancisOkolo”>Francis Okolo</a>
+<a href=“https://github.com/samif1”>Samuel Lemma </a>
+<a href=“https://github.com/Adekunle-R”> Adekunle Richard </a>
+<a href=“https://github.com/Sofiyyah1”> Abdulsalam Sofiyat </a>
 
