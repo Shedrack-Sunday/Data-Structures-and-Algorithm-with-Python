@@ -18,15 +18,15 @@
 * Style guidelines: [PEP8](https://peps.python.org/pep-0008/)
 ---
 ### Collaborators
-<a href=“https://github.com/Shedrack-Sunday”>Shedrack Sunday</a>
-<a href=“https://github.com/Abolajioyin”>Abolaji Oyinloye </a>
-<a href=“https://github.com/EddieChimezie”>Edison Chimezie </a>
-<a href=“https://github.com/PrincessRuth90”>Marcus Ruth</a>
-<a href=“https://github.com/charlykso”>Ikenna Remigius </a>
-<a href=“https://github.com/egba001”> Egba Nnaemeka </a>
-<a href=“https://github.com/Wilsonide”>Wilson Icheku </a>
-<a href=“https://github.com/FrancisOkolo”>Francis Okolo</a>
-<a href=“https://github.com/samif1”>Samuel Lemma </a>
-<a href=“https://github.com/Adekunle-R”> Adekunle Richard </a>
-<a href=“https://github.com/Sofiyyah1”> Abdulsalam Sofiyat </a>
+[Shedrack Sunday](https://github.com/Shedrack-Sunday)
+[Abolaji Oyinloye](https://github.com/Abolajioyin)
+[Edison Chimezie](https://github.com/EddieChimezie)
+[Marcus Ruth](https://github.com/PrincessRuth90)
+[Ikenna Remigius](https://github.com/charlykso)
+[Egba Nnaemeka](https://github.com/egba001)
+[Wilson Icheku](https://github.com/Wilsonide)
+[Francis Okolo](https://github.com/FrancisOkolo)
+[Samuel Lemma](https://github.com/samif1)
+[Adekunle Richard](https://github.com/Adekunle-R)
+[Abdulsalam Sofiyat](https://github.com/Sofiyyah1)
 
