@@ -1,21 +1,46 @@
-Data Structures and Algorithms
+# Data Structures and Algorithms 💻
 
-If you appreciate my work, please 🌟 this repository. It motivates us. 🚀🚀
+> If you appreciate our work, please 🌟 this repository. It motivates us. 🚀🚀
+</br>
+This repository contains all the Data Structures and Algorithms concepts and their implementation in several ways, programming questions and Interview questions. The main aim of this repository is to help students who are learning Data Structures and Algorithms or preparing for an interview. This contains questions from popular coding platforms including <a href="https://leetcode.com/">LeetCode</a>, <a href ="https://www.hackerrank.com/">HackerRank</a>, and <a href="https://www.geeksforgeeks.org/">GeeksforGeeks</a>.
 
-Data-Structures-and-Algorithms
+> If you’re practising on the coding platforms mentioned above also if you want to contribute, then you can add the questions in this repository.
 
-This repository contains all the Data Structures and Algorithms concepts and their implementation in several ways, programming questions and Interview questions. The main aim of this repository is to help students who are learning Data Structures and Algorithms or preparing for an interview. This contains questions from popular coding platforms including LeetCode, HackerRank, GeeksforGeeks.
+## Rules for contributing to this repository
+* You can write solutions in Java and Python only.
+* Follow the file/folder naming convention for all your pull requests.
+* While adding any content it should be inside its appropriate directory
+* If there is any problem with an inaccurate solution, create an issue!
 
-If you're practising on the coding platforms mentioned above, also if you want to contribute those then you can add the questions in this repository.
+## Things you can contribute to
+> This repository contains folders of all the Data Structures and Algorithms topics with some pre-addressed questions. 
+* You can add a solution to an unanswered question.
+* You can update the existing solution with a better one (better complexity).
+* Participants/Contributors can even add new questions and solutions of their interest.
+* You can solve issues raised by other people or yourself. 
 
-Rules to contribute to this repository
-You can write solutions in Java and Python only.
-Follow the file/folder naming convention for all your pull requests.
-While adding any content it should be inside its appropriate directory
-If there is any problem with an inaccurate solution create an issue!
-Things you can contribute to
-This repository contains folders of all the Data Structures and Algorithms topics with some pre-addressed questions. You can add a solution to an unanswered question.
-You can update the existing solution with a better one (better complexity).
-Participants can even add new questions and solutions of their interest.
-Solve issues raised by other people or yourself.
-Well-documented source code with detailed explanations provides a valuable resource for educators and students alike.
+> Well-documented source code with detailed explanations provides an invaluable resource for educators and students alike.
+
+---
+## Collaborators 🤝
+* [Shedrack Sunday](https://github.com/Shedrack-Sunday)
+
+* [Abolaji Oyinloye](https://github.com/Abolajioyin)
+
+* [Edison Chimezie](https://github.com/EddieChimezie)
+
+* [Marcus Ruth](https://github.com/PrincessRuth90)
+
+* [Ikenna Remigius](https://github.com/charlykso)
+
+* [Egba Nnaemeka](https://github.com/egba001)
+
+* [Wilson Icheku](https://github.com/Wilsonide)
+
+* [Francis Okolo](https://github.com/FrancisOkolo)
+
+* [Samuel Lemma](https://github.com/samif1)
+
+* [Adekunle Richard](https://github.com/Adekunle-R)
+
+* [Abdulsalam Sofiyat](https://github.com/Sofiyyah1)
