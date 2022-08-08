@@ -34,24 +34,5 @@ A **Heap** is a special Tree-based data structure in which the tree is a complet
 
 ---
 ## Collaborators 🤝
-* [Shedrack Sunday](https://github.com/Shedrack-Sunday)
 
-* [Abolaji Oyinloye](https://github.com/Abolajioyin)
-
-* [Edison Chimezie](https://github.com/EddieChimezie)
-
-* [Marcus Ruth](https://github.com/PrincessRuth90)
-
-* [Ikenna Remigius](https://github.com/charlykso)
-
-* [Egba Nnaemeka](https://github.com/egba001)
-
-* [Wilson Icheku](https://github.com/Wilsonide)
-
-* [Francis Okolo](https://github.com/FrancisOkolo)
-
-* [Samuel Lemma](https://github.com/samif1)
-
-* [Adekunle Richard](https://github.com/Adekunle-R)
-
-* [Abdulsalam Sofiyat](https://github.com/Sofiyyah1)
+* [Abdulsalam Taiwo Sofiyat](https://github.com/Sofiyyah1)
