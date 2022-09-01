@@ -22,25 +22,5 @@ This repository contains all the Data Structures and Algorithms concepts and the
 > Well-documented source code with detailed explanations provides an invaluable resource for educators and students alike.
 
 ---
-## Collaborators 🤝
-* [Shedrack Sunday](https://github.com/Shedrack-Sunday)
-
-* [Abolaji Oyinloye](https://github.com/Abolajioyin)
-
-* [Edison Chimezie](https://github.com/EddieChimezie)
-
-* [Marcus Ruth](https://github.com/PrincessRuth90)
-
-* [Ikenna Remigius](https://github.com/charlykso)
-
-* [Egba Nnaemeka](https://github.com/egba001)
-
-* [Wilson Icheku](https://github.com/Wilsonide)
-
-* [Francis Okolo](https://github.com/FrancisOkolo)
-
-* [Samuel Lemma](https://github.com/samif1)
-
-* [Adekunle Richard](https://github.com/Adekunle-R)
-
-* [Abdulsalam Sofiyat](https://github.com/Sofiyyah1)
+## Author ↕️
+* [Shedrack Sunday](https://github.com/Shedrack-Sunda
