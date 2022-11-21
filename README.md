@@ -1,4 +1,4 @@
-# Data Structures and Algorithms 💻
+# Data Structures and Algorithms in Python For Programming interview 💻
 
 > If you appreciate our work, please 🌟 this repository. It motivates us. 🚀🚀
 </br>
